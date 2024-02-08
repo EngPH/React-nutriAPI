@@ -56,5 +56,6 @@ header{
 
 .botao:hover{
     transition: all 0.5s;
-    color: #fff;
+    color: green;
+    zoom: 1.2;
 }
